@@ -1,0 +1,3 @@
+pycryptodome
+pyserial
+# liboqs-python (oqs) must be installed against liboqs separately
